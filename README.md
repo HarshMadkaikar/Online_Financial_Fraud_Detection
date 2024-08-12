@@ -1,1 +1,2 @@
 # Online_Financial_Fraud_Detection
+Developed an advanced online financial fraud detection system by combining Random Forest, Logistic Regression, and XGBoost for a multi-model approach to classification. Leveraged DBSCAN for detecting outliers and identifying fraudulent transactions in large datasets. Focused on feature engineering and model optimization to enhance detection accuracy. Conducted rigorous testing and validation, resulting in improved model precision and recall. Deployed the solution in a scalable cloud environment, enabling efficient real-time fraud detection.
